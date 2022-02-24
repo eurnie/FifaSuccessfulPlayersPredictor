@@ -1,7 +1,7 @@
 --- First Dataset ---
 Golden Standard Classifier: F1 score: 0.9917355371900827
-Non-Traditional Classifier F1 score: 0.0
 
+Non-Traditional Classifier F1 score: 0.0
 Non-Traditional Classifier MSE score: 0.35758938350199454
 
 SEM F1 score: 0.9123867069486404
@@ -12,8 +12,8 @@ MLR MSE score: 0.5527258551872724
 
 --- Second Dataset ---
 Golden Standard Classifier: F1 score: 0.6357615894039735
-Non-Traditional Classifier F1 score: 0.0
 
+Non-Traditional Classifier F1 score: 0.0
 Non-Traditional Classifier MSE score: 0.2198137501926352
 
 SEM F1 score: 0.6326530612244898
@@ -22,10 +22,22 @@ SEM MSE score: 0.2153082220077437
 MLR F1 score: 0.6893939393939393
 MLR MSE score: 0.28904929091096815
 
---- FIFA ---
+--- FIFA (max_iter = 100) ---
 Golden Standard Classifier: F1 score: 0.2978723404255319
 
 Non-Traditional Classifier F1 score: 0.2978723404255319
+Non-Traditional Classifier MSE score: 0.0
+
+SEM F1 score: 0.0600089565606807
+SEM MSE score: 0.5527402163903463
+
+MLR F1 score: 0.04173622704507512
+MLR MSE score: 0.950685437191831
+
+--- FIFA (max_iter = 1000) ---
+Golden Standard Classifier: F1 score: 0.25806451612903225
+
+Non-Traditional Classifier F1 score: 0.25806451612903225
 Non-Traditional Classifier MSE score: 0.0
 
 SEM F1 score: 0.0600089565606807
