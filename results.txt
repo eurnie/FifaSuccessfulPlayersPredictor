@@ -45,3 +45,15 @@ SEM MSE score: 0.5527402163903463
 
 MLR F1 score: 0.04173622704507512
 MLR MSE score: 0.950685437191831
+
+--- FIFA (test set contains only positive examples) ---
+Golden Standard Classifier: F1 score: 0.2758620689655173
+
+Non-Traditional Classifier F1 score: 0.2758620689655173
+Non-Traditional Classifier MSE score: 0.0
+
+SEM F1 score: 1.0
+SEM MSE score: 0.7118504579726814
+
+MLR F1 score: 1.0
+MLR MSE score: 0.8156439219978434
