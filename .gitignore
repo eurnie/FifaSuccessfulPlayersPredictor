@@ -1,0 +1,6 @@
+# Log files
+*.log
+
+# Jupyter notebook files
+.ipyng_checkpoints/*
+__pycache__/*
