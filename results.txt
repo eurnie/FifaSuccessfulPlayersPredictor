@@ -57,3 +57,28 @@ SEM MSE score: 0.7118504579726814
 
 MLR F1 score: 1.0
 MLR MSE score: 0.8156439219978434
+
+--- FIFA (players from 2018, 2019, 2020 and 2021 also labeled) ---
+Golden Standard Classifier: F1 score: 0.6292134831460674
+
+Non-Traditional Classifier F1 score: 0.6292134831460674
+Non-Traditional Classifier MSE score: 0.0
+
+SEM F1 score: 0.08759590792838873
+SEM MSE score: 0.9238934826934415
+
+MLR F1 score: 0.08759590792838873
+MLR MSE score: 0.9241280861545106
+
+--- FIFA (players from 2018, 2019, 2020 and 2021 also labeled 
+AND test set contains only positive examples) ---
+Golden Standard Classifier: F1 score: 0.6763285024154589
+
+Non-Traditional Classifier F1 score: 0.6763285024154589
+Non-Traditional Classifier MSE score: 0.0
+
+SEM F1 score: 1.0
+SEM MSE score: 0.45315043568645175
+
+MLR F1 score: 1.0
+MLR MSE score: 0.4598861587025829

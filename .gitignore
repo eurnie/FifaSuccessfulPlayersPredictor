@@ -2,5 +2,5 @@
 *.log
 
 # Jupyter notebook files
-.ipyng_checkpoints/*
+.ipynb_checkpoints/*
 __pycache__/*
